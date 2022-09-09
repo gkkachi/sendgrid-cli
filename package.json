@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@sendgrid/mail": "^7.2.5",
-    "configstore": "^5.0.1",
+    "configstore": "^6.0.0",
     "email-validator": "^2.0.4",
     "inquirer": "^7.3.3"
   }
