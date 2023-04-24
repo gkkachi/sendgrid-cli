@@ -3,6 +3,6 @@
     "@sendgrid/mail": "^7.2.5",
     "configstore": "^6.0.0",
     "email-validator": "^2.0.4",
-    "inquirer": "^9.1.1"
+    "inquirer": "^9.2.0"
   }
 }
